@@ -4,9 +4,7 @@ Easily app to get weather data of any city in the world by just typing it's name
 
 # preview
 
-![FIRST!](Screenshot_1722132008.png)
-![SECOND!](Screenshot_1722132049.png)
-![THIRD!](Screenshot_1722132129.png)
+![FIRST!](MergedImages(1).png)
 
 # Libraries and technologies used
 
