@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="brownButtonStyle">
+        <item name="android:background">@drawable/button_style</item>
+        <item name="android:fontFamily">sans-serif-black</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+</resources>
